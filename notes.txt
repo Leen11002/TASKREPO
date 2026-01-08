@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 THIS file is for notes 
 Step 1 :
+=======
+THIS file is for notes
+Step 1:
+>>>>>>> cb5657f7abad50f433e346d62379847c27baf1fa
